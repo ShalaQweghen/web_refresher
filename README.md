@@ -1,1 +1,1 @@
-# web_refresher
+A simple google search query script with rest-client for The Odin Project
